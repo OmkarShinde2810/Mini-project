@@ -1,0 +1,67 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database storage files
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.sql
+*.pdb
+*.mdb
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# Debug and diagnostic files
+coverage/
+.vscode/
+.idea/
+*.swp
+
+# Miscellaneous
+*.bak
+*.tmp
+temp/
+.tmp
+
+# SASS cache
+.sass-cache/
+
+# Optional NPM debug log
+npm-debug.log*
+
+# Optional Yarn debug log
+yarn-debug.log*
+
+# ESLint cache
+.eslintcache
+
+# Optional dotenv settings for development
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Optional error files
+error.log
+
+# GitHub Codespaces
+.codespace/
+
+# Testing frameworks
+jest-test-results.json

@@ -1,0 +1,24 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "a backennd at chai our code of youtube clone",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon source/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "omkar shinde",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "prettier": "^3.3.3"
+  }
+}
