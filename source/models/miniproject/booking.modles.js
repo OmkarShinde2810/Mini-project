@@ -13,6 +13,10 @@ const bookingschema = new mongoose.Schema({
         ref:"Prouser",
         required:true
     },
+    bookedtime:{
+        type:String,
+        required:true
+    }
 
 },
 {
